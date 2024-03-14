@@ -6,4 +6,9 @@
 > - **Workspaces:** [#Cinnamon](), [#MATE](), [#Xfce]()
 > - **Category:** [#Beginners](), [#Desktop](), [#Live-Medium]()
 
+> [!hint]
+>
+> Подойдёт для новичков. Удобный дизайн, легко обновляются драйвера, ядро и система.
+
+
 <hr>
