@@ -1,3 +1,6 @@
-# Linux-guides
-- [OS](OS/OS.md)
-- [DE](DE/DE.md)
+# Linux-zero
+# 
+- [OS - Operation System](OS/OS.md)
+- [DE - Desktop Environment](DE/DE.md)
+- Kernel
+- Audio
