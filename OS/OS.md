@@ -10,7 +10,7 @@
 > - Workspaces: AfterStep, Awesome, Blackbox, Cinnamon, Fluxbox, flwm, FVWM, GNOME, i3, IceWM, ion, JWM, KDE, LXDE, LXQt, MATE, Openbox, pekwm, Ratpoison, WMaker, XBMC, Xfce
 > - Category: Desktop, Live-Medium, Server
 
-> [!Hint]
+> [!TIP]
 > Используют для сервера или работы. Довольно стойкие сервера которые работают годами без перезагрузки. Также фундамент для большинства систем.
 ## Sources
 Home page: https://www.debian.org/
