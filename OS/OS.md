@@ -6,14 +6,16 @@
 </div>
 
 **Проект Debian** - это ассоциация людей, которые объединились для создания свободной операционной системы.
+## About
 
-> [!IMPORTANT]
-> - Based on: Independent
-> - Workspaces: AfterStep, Awesome, Blackbox, Cinnamon, Fluxbox, flwm, FVWM, GNOME, i3, IceWM, ion, JWM, KDE, LXDE, LXQt, MATE, Openbox, pekwm, Ratpoison, WMaker, XBMC, Xfce
-> - Category: Desktop, Live-Medium, Server
+<img src="../assets/Debian_D.png" alt="rice" align="right" width="300px">
 
-> [!TIP]
-> Используют для сервера или работы. Довольно стойкие сервера которые работают годами без перезагрузки. Также фундамент для большинства систем.
+- Based on: Independent
+- Workspaces: AfterStep, Awesome, Blackbox, Cinnamon, Fluxbox, flwm, FVWM, GNOME, i3, IceWM, ion, JWM, KDE, LXDE, LXQt, MATE, Openbox, pekwm, Ratpoison, WMaker, XBMC, Xfce
+- Category: Desktop, Live-Medium, Server
+
+## TIP
+Используют для сервера или работы. Довольно стойкие сервера которые работают годами без перезагрузки. Также фундамент для большинства систем.
 ## Sources
 Home page: https://www.debian.org/
 <hr>
